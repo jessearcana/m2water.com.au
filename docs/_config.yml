@@ -1,27 +1,28 @@
 baseurl: ''
 permalink: pretty
-title: 'Jeff Tate Consulting'
+title: 'M2 Water'
 email: 'webmaster@arcana.com.au'
-description: 'Jeff is a specialist in policy and strategy development, review and implementation; organisational alignment; partnering and relationships; governance; problem solving; leadership mentoring and coaching; and facilitation and negotiation.'
+description: 'M2 Water provide specialised consultancy services.'
 
 homepage:
   show_call_box: true
 
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>. Website customization by <a class="zerostatic" href="https://arcana.com.au">Apex Arcana</a>.'
 
 seo:
-  meta_og_title: "Jeff Tate Consulting"
+  meta_og_title: "M2 Water"
   meta_og_type: "website"
-  meta_og_url: "https://tateconsulting.com.au"
-  meta_og_image: "https://tateconsulting.com.au/images/jeff_tate.jpg"
-  meta_og_description: "Jeff is a specialist in policy and strategy development, review and implementation; organisational alignment; partnering and relationships; governance; problem solving; leadership mentoring and coaching; and facilitation and negotiation."
+  meta_og_url: "https://m2water.com.au"
+  meta_og_image: "https://m2water.com.au/images/full logo.png"
+  meta_og_description: "M2 Water provide specialised consultancy services."
   google_analytics_id: ""
 
 logo:
-  mobile: "images/logo/logo.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/full logo.svg"
+  desktop: "images/full logo.svg"
   desktop_height: "50px"
+  show_title: false
 
 home: 
   limit_services: 3
@@ -49,7 +50,7 @@ sass:
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
-url: "https://tateconsulting.com.au"
+url: "https://m2water.com.au"
 
 plugins:
   - jekyll-environment-variables
@@ -66,4 +67,6 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - services.md
+  - values.md
 

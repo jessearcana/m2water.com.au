@@ -4,4 +4,4 @@ layout: contact
 description: Contact
 ---
 
-Email, call or SMS to get in contact with Jeff.
+M2 Water is accepting new clients by referral only.

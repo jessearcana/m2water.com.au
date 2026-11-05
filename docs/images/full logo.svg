@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 553.43512 170.91603"
+   width="553.43512"
+   height="170.91603"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="full logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="full logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.62"
+     inkscape:cx="385.87786"
+     inkscape:cy="82.633588"
+     inkscape:window-width="3440"
+     inkscape:window-height="1351"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3796"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3794" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1828"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop1826" />
+    </linearGradient>
+    <style
+       id="style2">
+      .bg { fill: #ffffff; }
+      .text-primary { fill: #0F1E36; font-family: 'Arial Black', 'Impact', 'Montserrat', sans-serif; font-weight: 900; }
+      .text-sub { fill: #0F1E36; font-family: 'Arial', 'Helvetica', sans-serif; font-weight: 800; letter-spacing: 6px; }
+      
+      .pipe-stroke { stroke: #0F1E36; stroke-width: 22; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; }
+      .pipe-rim { fill: #0F1E36; }
+      .drop { fill: #0F1E36; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect
+     style="stroke:#f9f9f9;stroke-width:22.0345;stroke-linejoin:round;stroke-dasharray:none;fill:#bbddee;fill-opacity:0.93333334"
+     id="rect3852"
+     width="604.07233"
+     height="210.56088"
+     x="-24.173574"
+     y="-19.211742"
+     ry="0" />
+  <rect
+     class="bg"
+     width="569.84735"
+     height="186.5649"
+     id="rect6"
+     x="-7.6335878"
+     y="-6.4885492"
+     inkscape:label="rect6"
+     style="fill:none;stroke-width:1.06015" />
+  <g
+     transform="translate(-37.099236,-13.206108)"
+     id="g22">
+    <!-- Letter M -->
+    <text
+       x="38.054218"
+       y="139"
+       class="text-primary"
+       font-size="160"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:160px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f1e36">M</text>
+    <!-- Pipe Path -->
+    <path
+       class="pipe-stroke"
+       d="m 160,52 v -8 c 0,-24 51.5056,-22.920448 51.5056,1.079552 C 211.5056,73.079552 160,108 160,128 h 409.28472"
+       id="path10"
+       sodipodi:nodetypes="csscc"
+       style="stroke-width:20;stroke-dasharray:none;fill-opacity:1" />
+    <!-- Top Spout Flange Rim -->
+    <rect
+       class="pipe-rim"
+       x="144"
+       y="47"
+       width="32"
+       height="8"
+       rx="2"
+       id="rect12" />
+    <!-- End of Underline Flange Rim -->
+    <rect
+       class="pipe-rim"
+       x="568.64978"
+       y="114.77642"
+       width="8"
+       height="26"
+       rx="2"
+       id="rect14" />
+    <!-- Water Droplet -->
+    <path
+       class="drop"
+       d="m 160,55 c -7,9 -12,16 -12,23 0,7 5,12 12,12 7,0 12,-5 12,-12 0,-7 -5,-14 -12,-23 z"
+       id="path16" />
+    <!-- Letter WATER (Shifted 25px closer to the left) -->
+    <text
+       x="224.75839"
+       y="112"
+       class="text-primary"
+       font-size="115"
+       id="text18"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:121.333px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f1e36;stroke:#0f1e36;stroke-width:5;stroke-dasharray:none;stroke-opacity:1">WATER</text>
+    <!-- Byline: WATER CONSULTING SERVICES (Aligned with WATER text) -->
+    <text
+       x="150.03062"
+       y="168"
+       class="text-sub"
+       font-size="22"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:22px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:6px;fill:#0f1e36">WATER CONSULTING SERVICES</text>
+  </g>
+</svg>

@@ -1,50 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="255.99998"
-   height="255.99998"
-   viewBox="0 0 67.733329 67.733328"
+   viewBox="0 0 180.34352 159.65649"
+   width="180.34352"
+   height="159.65649"
    version="1.1"
-   id="svg1"
+   id="svg24"
+   sodipodi:docname="icon logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="5.24"
+     inkscape:cx="135.68702"
+     inkscape:cy="77.862596"
+     inkscape:window-width="3440"
+     inkscape:window-height="1351"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
   <defs
-     id="defs1" />
+     id="defs4">
+    <style
+       id="style2">
+      .bg { fill: #ffffff; }
+      .text-primary { fill: #0F1E36; font-family: 'Arial Black', 'Impact', 'Montserrat', sans-serif; font-weight: 900; }
+      .text-sub { fill: #0F1E36; font-family: 'Arial', 'Helvetica', sans-serif; font-weight: 800; letter-spacing: 6px; }
+      
+      .pipe-stroke { stroke: #0F1E36; stroke-width: 22; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; }
+      .pipe-rim { fill: #0F1E36; }
+      .drop { fill: #0F1E36; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect
+     class="bg"
+     width="180.34352"
+     height="159.65649"
+     id="rect6"
+     x="0"
+     y="0" />
   <g
-     id="layer1">
-    <circle
-       style="display:inline;fill:#87878a;fill-opacity:1;stroke-width:0.406634"
+     transform="translate(-44.351144,-14.541986)"
+     id="g22">
+    <!-- Letter M -->
+    <text
+       x="38.054218"
+       y="139"
+       class="text-primary"
+       font-size="160"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:160px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0f1e36">M</text>
+    <!-- Pipe Path -->
+    <path
+       class="pipe-stroke"
+       d="m 160.06747,52 v -8 c 0,-24 48.83384,-21.012051 48.83384,2.987949 0,28 -48.83384,61.012051 -48.83384,81.012051 h 51.71065"
        id="path10"
-       cx="33.866665"
-       cy="33.866665"
-       r="33.866665" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.372457"
-       id="circle10"
-       cx="33.866665"
-       cy="33.866665"
-       r="31.020287" />
+       sodipodi:nodetypes="csscc" />
+    <!-- Top Spout Flange Rim -->
+    <rect
+       class="pipe-rim"
+       x="144"
+       y="47"
+       width="32"
+       height="8"
+       rx="2"
+       id="rect12" />
+    <!-- End of Underline Flange Rim -->
+    <rect
+       class="pipe-rim"
+       x="211.55795"
+       y="114.93451"
+       width="8"
+       height="26"
+       rx="2"
+       id="rect14" />
+    <!-- Water Droplet -->
     <path
-       fill="#87878A"
-       opacity="1"
-       stroke="none"
-       d="m 41.33995,30.816921 c 0,5.14203 0,10.08074 0,15.211552 -1.302539,0 -2.469509,0 -3.874182,0 0,-8.622344 0,-17.257359 0,-26.123621 -3.031055,0 -5.841086,0 -8.841038,0 0,-1.317446 0,-2.404672 0,-3.617677 4.153621,0 8.260724,0 12.715225,0 0,4.771579 0,9.549004 -5e-6,14.529746 z"
-       id="path7"
-       style="fill:#87878a;fill-opacity:1;stroke-width:0.406634" />
-    <path
-       fill="#87888b"
-       opacity="1"
-       stroke="none"
-       d="m 31.317888,52.049585 c -1.088217,1.021798 -2.076244,1.938209 -3.226288,3.004891 -0.866164,-0.96541 -1.652868,-1.842264 -2.388972,-2.662705 0.09933,-0.229903 0.108182,-0.31634 0.154604,-0.348464 3.845017,-2.660128 4.165707,-6.519536 3.961875,-10.752736 -0.227356,-4.721666 -0.05213,-9.462717 -0.05213,-14.363607 -1.050691,-0.0973 -1.96493,-0.181972 -2.872175,-0.265993 -0.986941,-2.989536 -0.641193,-3.521141 2.270892,-3.520007 1.410129,5.28e-4 2.820257,9.4e-5 4.448387,9.4e-5 0.05101,0.9388 0.129328,1.719528 0.130235,2.500345 0.0078,6.768223 -0.06158,13.537354 0.03387,20.304213 0.03384,2.398683 -0.582744,4.387794 -2.460293,6.103969 z"
-       id="path8"
-       style="stroke-width:0.406634" />
-    <path
-       fill="#898a8d"
-       opacity="1"
-       stroke="none"
-       d="m 47.437043,19.78678 c -1.040186,5.29e-4 -1.89697,5.29e-4 -2.892633,5.29e-4 0,-1.256517 0,-2.296274 0,-3.480559 1.491803,0 2.922642,0 4.63708,0 -0.66993,1.218789 1.379675,3.284987 -1.744447,3.480038 z"
-       id="path9"
-       style="stroke-width:0.406634" />
+       class="drop"
+       d="m 160,55 c -7,9 -12,16 -12,23 0,7 5,12 12,12 7,0 12,-5 12,-12 0,-7 -5,-14 -12,-23 z"
+       id="path16" />
+    <!-- Letter WATER (Shifted 25px closer to the left) -->
+    <!-- Byline: WATER CONSULTING SERVICES (Aligned with WATER text) -->
+    <text
+       x="46.977192"
+       y="171.05344"
+       class="text-sub"
+       font-size="22"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:6px;fill:#0f1e36"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan1115">WATER</tspan></text>
   </g>
 </svg>
